@@ -1,5 +1,6 @@
 # Linux-Clipboard-Control
 Simply control the clipboard in a desktop linux environment (Allow / Disallow)
+Clipboard : Copy and Paste function (Ctrl + c and Ctrl + v)
 
 ### Prerequisite
 - GCC Compiler
