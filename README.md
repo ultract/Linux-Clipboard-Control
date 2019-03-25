@@ -2,4 +2,13 @@
 Simply control the clipboard in a desktop linux environment (Allow / Disallow)
 
 ### Prerequisite
-Gtk 2.0 and Gtk 3.0
+- GCC Compiler
+- Gtk 2.0 or Gtk 3.0 Library 
+
+### Build
+> gcc clipboard_control.c -o clipboard_control `pkg-config --libs --cflags gtk+-2.0`
+>
+> or
+>  
+> gcc clipboard_control.c -o clipboard_control `pkg-config --libs --cflags gtk+-3.0
+
