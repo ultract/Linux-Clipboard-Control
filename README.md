@@ -1,6 +1,7 @@
 # Linux-Clipboard-Control
-Simply control the clipboard in a desktop linux environment (Allow / Disallow)
-Clipboard : Copy and Paste function (Ctrl + c and Ctrl + v)
+- Simply control the clipboard in a desktop linux environment (Allow / Disallow)
+- Clipboard : Copy and Paste function (Ctrl + c and Ctrl + v)
+- Print Messages by the D-Bus method call
 
 ### Prerequisite
 - GCC Compiler
